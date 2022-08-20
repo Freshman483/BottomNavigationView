@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/homeProfile"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:title="Profile"
+        android:id="@+id/profileAccount"
+        android:icon="@drawable/ic_baseline_account_circle_24"/>
+
+    <item android:title="Settings"
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+    <item android:title="Logout"
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"/>
+
+</menu>
